@@ -1,7 +1,7 @@
 # magWSSPP
 This is a post-processing for magnitude of wall shear stress written based on foam-extend-4.1.
 
-## Math equation
+## Mathematical Relationships
 $$ \tau_w = \mid \mu \nabla U . n \mid $$
 
 Which $\tau_w$, $\mu$, $U$, and $n$ are wall shear stress, dynamic viscosity, velocity vector, and perpendicular vector, respectively.

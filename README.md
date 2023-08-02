@@ -3,9 +3,9 @@ This is a post-processing for magnitude of wall shear stress written based on fo
 
 
 ## Mathematical Relationships
-$$ \tau_w = \mid \mu \nabla U . n \mid $$
+$$ magWSS = \mid \mu \nabla U . n \mid $$
 
-Which $\tau_w$, $\mu$, $U$, and $n$ are wall shear stress, dynamic viscosity, velocity vector, and perpendicular vector, respectively.
+Which $magWSS$, $\mu$, $U$, and $n$ are magnitude of wall shear stress, dynamic viscosity, velocity vector, and perpendicular vector, respectively.
 
 
 ## Installation
